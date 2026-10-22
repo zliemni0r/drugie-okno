@@ -7,5 +7,5 @@
         Title="pierwsza zmiana"
         WindowState="Maximized"
         Background="Gray">
-    <TextBlock Text="Warsztat" HorizontalAlignment="Center" VerticalAlignment="Center"/>
+    <TextBlock Text="Warsztat" Foreground="Blue" HorizontalAlignment="Center" VerticalAlignment="Center"/>
 </Window>
