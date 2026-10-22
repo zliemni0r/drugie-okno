@@ -5,6 +5,7 @@
         mc:Ignorable="d" d:DesignWidth="800" d:DesignHeight="450"
         x:Class="okno.MainWindow"
         Title="pierwsza zmiana"
-        WindowState="Maximized">
+        WindowState="Maximized"
+        Background="Gray">
     <TextBlock Text="Warsztat" HorizontalAlignment="Center" VerticalAlignment="Center"/>
 </Window>
