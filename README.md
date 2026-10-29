@@ -5,3 +5,4 @@
 5. litery są większe
 6. litery są chudsze
 8. zmieniony tekst
+9. kolor tekstu został zmieniony na biały
