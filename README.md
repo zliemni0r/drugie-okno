@@ -10,3 +10,4 @@
 10. ustawienie pochylenia tekstu
 11. pomniejszenie okna
 12. danie tekstu na prawą strone
+13. przemieszczenie tekstu na środek
