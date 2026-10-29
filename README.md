@@ -12,3 +12,4 @@
 12. danie tekstu na prawą strone
 13. przemieszczenie tekstu na środek
 14. dodanie animacji koloru tekstu
+15. dodanie animacji powiekszania i zmniejszania tekstu
