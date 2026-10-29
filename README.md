@@ -4,3 +4,4 @@
 4. nie można przesuwać okna
 5. litery są większe
 6. litery są chudsze
+8. zmieniony tekst
