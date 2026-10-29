@@ -12,6 +12,7 @@
     <Window.Styles>
         <Style Selector="TextBlock.rainbow">
             <Style.Animations>
+                <!-- Animacja kolorów (tęcza) -->
                 <Animation Duration="0:0:6" IterationCount="Infinite">
                     <KeyFrame Cue="0%">
                         <Setter Property="Foreground" Value="Red"/>
@@ -35,9 +36,19 @@
                         <Setter Property="Foreground" Value="Red"/>
                     </KeyFrame>
                 </Animation>
+
+                <!-- Animacja powiększania i zmniejszania -->
+                <Animation Duration="0:0:2" IterationCount="Infinite" PlaybackDirection="Alternate">
+                    <KeyFrame Cue="0%">
+                        <Setter Property="FontSize" Value="20"/>
+                    </KeyFrame>
+                    <KeyFrame Cue="100%">
+                        <Setter Property="FontSize" Value="36"/>
+                    </KeyFrame>
+                </Animation>
             </Style.Animations>
         </Style>
     </Window.Styles>
 
-    <TextBlock Classes="rainbow" Text="inny tekst" Background="Black" FontSize="24" FontWeight="Light" FontStyle="Italic" HorizontalAlignment="Center" VerticalAlignment="Center"/>
+    <TextBlock Classes="rainbow" Text="inny tekst" Background="Black" FontWeight="Light" FontStyle="Italic" HorizontalAlignment="Center" VerticalAlignment="Center"/>
 </Window>
