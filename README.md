@@ -4,5 +4,6 @@
 4. nie można przesuwać okna
 5. litery są większe
 6. litery są chudsze
-8. zmieniony tekst
-9. kolor tekstu został zmieniony na biały
+7. zmieniony tekst
+8. kolor tekstu został zmieniony na biały
+9. zmiana koloru tła tekstu na czarny
