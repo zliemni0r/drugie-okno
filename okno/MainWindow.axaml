@@ -5,7 +5,7 @@
         mc:Ignorable="d" d:DesignWidth="800" d:DesignHeight="450"
         x:Class="okno.MainWindow"
         Title="pierwsza zmiana"
-        WindowState="Maximized"
+        Width="400" Height="300"
         WindowDecorations="None"
         Background="Gray">
     <TextBlock Text="inny tekst" Foreground="White" Background="Black" FontSize="24" FontWeight="Light" FontStyle="Italic" HorizontalAlignment="Center" VerticalAlignment="Center"/>
