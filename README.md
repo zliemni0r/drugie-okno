@@ -9,3 +9,4 @@
 9. zmiana koloru tła tekstu na czarny
 10. ustawienie pochylenia tekstu
 11. pomniejszenie okna
+12. danie tekstu na prawą strone
