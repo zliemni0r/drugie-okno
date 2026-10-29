@@ -7,3 +7,4 @@
 7. zmieniony tekst
 8. kolor tekstu został zmieniony na biały
 9. zmiana koloru tła tekstu na czarny
+10. ustawienie pochylenia tekstu
