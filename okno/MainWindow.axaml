@@ -8,5 +8,5 @@
         Width="400" Height="300"
         WindowDecorations="None"
         Background="Gray">
-    <TextBlock Text="inny tekst" Foreground="White" Background="Black" FontSize="24" FontWeight="Light" FontStyle="Italic" HorizontalAlignment="Center" VerticalAlignment="Center"/>
+    <TextBlock Text="inny tekst" Foreground="White" Background="Black" FontSize="24" FontWeight="Light" FontStyle="Italic" HorizontalAlignment="Right" VerticalAlignment="Center"/>
 </Window>
