@@ -11,3 +11,4 @@
 11. pomniejszenie okna
 12. danie tekstu na prawą strone
 13. przemieszczenie tekstu na środek
+14. dodanie animacji koloru tekstu
