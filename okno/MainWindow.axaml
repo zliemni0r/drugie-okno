@@ -8,5 +8,5 @@
         WindowState="Maximized"
         WindowDecorations="None"
         Background="Gray">
-    <TextBlock Text="Warsztat" Foreground="Blue" FontSize="24" HorizontalAlignment="Center" VerticalAlignment="Center"/>
+    <TextBlock Text="Warsztat" Foreground="Blue" FontSize="24" FontWeight="Light" HorizontalAlignment="Center" VerticalAlignment="Center"/>
 </Window>
